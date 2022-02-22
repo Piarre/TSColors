@@ -1,4 +1,4 @@
-#I had a problem to add color(s) to a typescript app so I have found a file with colors syntax
+## I had a problem to add color(s) to a typescript app so I have found a file with colors syntax
 ```
 Reset = "\x1b[0m"
 Bright = "\x1b[1m"
